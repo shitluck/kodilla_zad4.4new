@@ -1,0 +1,27 @@
+.TodoList {
+	background: #B5D6CD;
+	color: #000000;
+	text-align: center;
+	width: 800px;
+	font-size: 20px;
+	padding: 20px;	
+}
+
+.TodoList > div {
+	margin: 0 auto;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	padding: 5px;
+	margin-bottom: 5px;
+	border: 2px solid #76BBA7;
+}
+
+li:hover {
+	cursor: pointer;
+	background: #76BBA7;
+}

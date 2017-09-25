@@ -1,0 +1,16 @@
+.Title {
+	background: #76BBA7;
+	color: #000000;
+	text-align: center;
+	width: 800px;
+	font-size: 40px;
+	padding: 20px
+}
+
+.Title > div {
+	background: #B5D6CD;
+	width: 300px;
+	margin: 0 auto;
+	padding: 15px;
+	font-size: 30px;	
+}
