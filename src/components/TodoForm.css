@@ -1,0 +1,10 @@
+.TodoForm {
+    width: 800px;
+    padding: 20px;
+    background: #92CDBC;
+    text-align: center;
+}
+
+input {
+    font-size: 18px;
+}
